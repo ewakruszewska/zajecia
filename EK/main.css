@@ -1,0 +1,12 @@
+.hide {
+    display: none;
+}
+
+li{
+    padding: 20px;
+}
+
+button {
+    float: right;
+}
+
